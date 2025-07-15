@@ -13,6 +13,6 @@
   "license": "ISC",
   "packageManager": "pnpm@10.13.1",
   "dependencies": {
-    "repro-execa-pnpm": "felipecrs/repro-execa-pnpm"
+    "repro-execa-pnpm": "felipecrs/repro-execa-pnpm#solution"
   }
 }

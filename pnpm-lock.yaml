@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       repro-execa-pnpm:
-        specifier: felipecrs/repro-execa-pnpm
-        version: https://codeload.github.com/felipecrs/repro-execa-pnpm/tar.gz/af28c919402d56e7c6166cf94d72ba1fe705ed75
+        specifier: github:felipecrs/repro-execa-pnpm#solution
+        version: https://codeload.github.com/felipecrs/repro-execa-pnpm/tar.gz/c7230b250b49a2f04fed7133492dee647a3b1290
 
 packages:
 
@@ -175,8 +175,8 @@ packages:
     resolution: {integrity: sha512-9nX56alTf5bwXQ3ZDipHJhusu9NTQJ/CVPtb/XHAJCXihZeitfJvIRS4GqQ/mfIoOE3IelHMrpayVrosdHBuLw==}
     engines: {node: '>=8'}
 
-  repro-execa-pnpm@https://codeload.github.com/felipecrs/repro-execa-pnpm/tar.gz/af28c919402d56e7c6166cf94d72ba1fe705ed75:
-    resolution: {tarball: https://codeload.github.com/felipecrs/repro-execa-pnpm/tar.gz/af28c919402d56e7c6166cf94d72ba1fe705ed75}
+  repro-execa-pnpm@https://codeload.github.com/felipecrs/repro-execa-pnpm/tar.gz/c7230b250b49a2f04fed7133492dee647a3b1290:
+    resolution: {tarball: https://codeload.github.com/felipecrs/repro-execa-pnpm/tar.gz/c7230b250b49a2f04fed7133492dee647a3b1290}
     version: 1.0.0
 
   run-applescript@7.0.0:
@@ -400,7 +400,7 @@ snapshots:
     dependencies:
       readable-stream: 4.7.0
 
-  repro-execa-pnpm@https://codeload.github.com/felipecrs/repro-execa-pnpm/tar.gz/af28c919402d56e7c6166cf94d72ba1fe705ed75:
+  repro-execa-pnpm@https://codeload.github.com/felipecrs/repro-execa-pnpm/tar.gz/c7230b250b49a2f04fed7133492dee647a3b1290:
     dependencies:
       execa: 9.6.0
       open-cli: 8.0.0
